@@ -1,0 +1,13 @@
+Jobs:
+- id: aa
+  schedule: "* * * * *"  # nullable
+  parameters:
+    fetch_todays_file: bool
+    search_dsy_span: 3
+    try_num: 2
+  fetch_menu:
+  - station_id: AA
+    parameters:
+      fetch_todays_file: bool
+      try_num: 2
+    commands: []

@@ -1,0 +1,4 @@
+Groups:
+- id: AA
+  name: Android
+  rootpath: /path

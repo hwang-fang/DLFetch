@@ -1,0 +1,6 @@
+CommandSets:
+- id: string
+  commands:
+  - a
+  - b
+  - c

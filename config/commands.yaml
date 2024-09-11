@@ -1,0 +1,5 @@
+Commands:
+- id: string
+  unit: day | hour | event
+  src_path: <>/<>/<>
+  fetch_path: <>/<>/<>

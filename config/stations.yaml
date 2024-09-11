@@ -1,0 +1,11 @@
+Stations:
+- id: KX01
+  name: string
+  rootpath: /path
+  group: AA
+  default_commands: []
+  sbm_info:
+    host: "10.34.100.1"
+    user: name
+    password: xxx
+    sharename: Shared
